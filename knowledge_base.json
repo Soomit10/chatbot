@@ -1,0 +1,76 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "correct Answer": 0
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "answers": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "correct Answer": 2
+    },
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "hello",
+      "answer": "hello"
+    },
+    {
+      "question": "how are you?",
+      "answer": "Fine? What about you"
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "answer": "Berline"
+    },
+    {
+      "question": "Are you ill?",
+      "answer": "No I am totally fit and fine"
+    },
+    {
+      "question": "what is your name?",
+      "answer": "Chatbot"
+    },
+    {
+      "question": "How is the weather today?",
+      "answer": "Today's weather is sunny and beautiful"
+    },
+    {
+      "question": "What is the capital of India?",
+      "answer": "Delhi"
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "answer": "Berlin"
+    },
+    {
+      "question": "What is the name of the best horror film of all time?",
+      "answer": "The Conjuring"
+    },
+    {
+      "question": "What's up?",
+      "answer": "Nothing is up everything is down."
+    },
+    {
+      "question": "What is the capital of Bangladesh?",
+      "answer": "Dhaka"
+    },
+    {
+      "question": "hey",
+      "answer": "hey....whats's up?"
+    }
+  ]
+}
